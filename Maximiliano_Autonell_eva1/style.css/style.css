@@ -1,3 +1,4 @@
+/* Estilo para la página de Ciberseguridad */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f4f8;
@@ -11,11 +12,6 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
-}
-ul {
-    background-color: #e0f7fa;
-    padding: 10px;
-    border-radius: 5px;
 }
 
 main {
